@@ -4,10 +4,10 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > The program will output the two numbers together.
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > It dose not acomplish the task. Because it puts the two numbers next to each other.
 
 ## Run
 Run the program. 
